@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/passing-thoughts/static/css/main.b17e7098.chunk.css",
+    "main.js": "/passing-thoughts/static/js/main.004c324b.chunk.js",
+    "main.js.map": "/passing-thoughts/static/js/main.004c324b.chunk.js.map",
+    "runtime-main.js": "/passing-thoughts/static/js/runtime-main.cbdaddbf.js",
+    "runtime-main.js.map": "/passing-thoughts/static/js/runtime-main.cbdaddbf.js.map",
+    "static/js/2.e583d112.chunk.js": "/passing-thoughts/static/js/2.e583d112.chunk.js",
+    "static/js/2.e583d112.chunk.js.map": "/passing-thoughts/static/js/2.e583d112.chunk.js.map",
+    "static/js/3.bf04ed3d.chunk.js": "/passing-thoughts/static/js/3.bf04ed3d.chunk.js",
+    "static/js/3.bf04ed3d.chunk.js.map": "/passing-thoughts/static/js/3.bf04ed3d.chunk.js.map",
+    "index.html": "/passing-thoughts/index.html",
+    "static/css/main.b17e7098.chunk.css.map": "/passing-thoughts/static/css/main.b17e7098.chunk.css.map",
+    "static/js/2.e583d112.chunk.js.LICENSE.txt": "/passing-thoughts/static/js/2.e583d112.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbdaddbf.js",
+    "static/js/2.e583d112.chunk.js",
+    "static/css/main.b17e7098.chunk.css",
+    "static/js/main.004c324b.chunk.js"
+  ]
+}
